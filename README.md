@@ -1,5 +1,4 @@
 # King of the Hill - Avalanche Game
-A decentralized application (DApp) game running on Avalanche Testnet where players compete to become the king by placing higher bids. Features real-time updates, on-chain messaging, and nickname system. Smart contracts in this repository https://github.com/looksg00d/smartcontracts_avalanche
 ## Game Mechanics
 - Bid higher than the current king to claim the throne
  Stay king longer to earn more rewards
